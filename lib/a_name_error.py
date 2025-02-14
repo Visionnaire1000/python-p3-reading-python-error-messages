@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
+def greeting():
+    print("hello_World")
 
-print(hello_world)
+greeting()
+

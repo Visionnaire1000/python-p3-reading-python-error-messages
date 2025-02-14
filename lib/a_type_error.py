@@ -1,3 +1,9 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+#!/usr/bin/env python3
+
+a = 10
+b = 20
+
+c = int(a) + int(b) 
+print(c)  
